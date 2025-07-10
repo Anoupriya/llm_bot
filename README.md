@@ -15,7 +15,7 @@ A lightweight chatbot powered by the [TinyLlama](https://huggingface.co/TinyLlam
 ---
 ## 📸 Demo
 
-![TinyLlama Bot Demo]("assets/demo.png")
+![TinyLlama Bot Demo](assets/demo.png)
 
 ## 🛠️ Setup
 
